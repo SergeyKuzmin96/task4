@@ -22,7 +22,7 @@ session_start();
 </form>
 
 <script src="../assets/js/jquery-3.4.1.min.js"></script>
-<script src="../assets/js/jquery/feedback.js"></script>
+<script src="../assets/js/javascript/feedback.js"></script>
 
 </body>
 </html>

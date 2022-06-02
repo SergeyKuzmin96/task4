@@ -17,7 +17,7 @@ session_start();
 <p id="response" class="msg none">Lorem ipsum.</p>
 
 <script src="../assets/js/jquery-3.4.1.min.js"></script>
-<script src="../assets/js/jquery/allComments.js"></script>
+<script src="../assets/js/javascript/allComments.js"></script>
 <script src="../assets/js/javascript/outputComments.js"></script>
 
 </body>
